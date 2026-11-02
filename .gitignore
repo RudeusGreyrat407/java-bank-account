@@ -1,0 +1,18 @@
+# Скомпилированные файлы
+*.class
+out/
+bin/
+target/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# ОС
+.DS_Store
+Thumbs.db
